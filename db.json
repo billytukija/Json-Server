@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "title": "Come and See", "author": "Billy Tukija" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Follow some nutrition advice", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
